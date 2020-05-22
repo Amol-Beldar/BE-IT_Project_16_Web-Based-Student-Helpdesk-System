@@ -17,8 +17,8 @@ idea of web application technology we can similarly deploy such web application 
 in college corridors to get an easy access to the system and enable the individuals to write
 down their problems ,complaints, suggestions or request etc to the college authorities with
 complete confidentiality.
-  The purpose of this project is to provide the colleges with an interactive system for dier
-ent activities going on in the colleges.The students will be able to know, ask complaint etc
+  The purpose of this project is to provide the colleges with an interactive system for direct
+activities going on in the colleges.The students will be able to know, ask complaint etc
 about what all activities colleges is doing for the students. Also we can provide students
 to give there suggestions or requests for particular activities that the students may require
 on college/departmental or personal basis as well.We will be making a website for an online
